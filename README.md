@@ -1,4 +1,4 @@
-"# Wiki" 
+# Wiki 
 
 This project was written with the Django framework and requires a local server to function.
 
