@@ -1,0 +1,11 @@
+{% extends "encyclopedia/layout.html" %}
+
+<title>error</title>
+
+{% block body %}
+    {% if title %}
+        <h1>No entries found for "{{title}}"</h1>
+    {% else %}
+        <h1>An error occured</h1>
+    {% endif %}
+{% endblock %}
