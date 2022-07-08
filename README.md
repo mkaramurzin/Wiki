@@ -1,5 +1,7 @@
 # Wiki 
 
+Overview: https://www.youtube.com/watch?v=r_JnpfM7Z4k&t=3s
+
 This project was written with the Django framework and requires a local server to function.
 
 Make sure you have python installed, then use the terminal command "pip3 install Django" to install django.
